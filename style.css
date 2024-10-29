@@ -20,3 +20,12 @@ div{
     margin-left:15px;
 
 }
+.fixed-box{
+    position: fixed;
+    margin-top: 10px;
+    margin-left:10px;
+}
+.sticky-box{
+    position:sticky;
+    margin-top:0px;
+}
