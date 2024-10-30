@@ -82,7 +82,55 @@ div{
     background-color:purple;
 }
 .childdiv3{
+
     background-color:green;
 }
+.Question-12{
+    display:flex;
+    flex-wrap:wrap;
+    height:500px;
+    width:400px;
+    background-color:yellow;
+}
+.childdiv4{
 
-
+    background-color:green;
+}
+.Question-13{
+    height:300px;
+    width:300px;
+    align-items:center;
+    background-color:blue;
+}
+.childdiv5{
+     background-color: antiquewhite;
+    display:inline-block;
+    width:50px;
+    height:60px;
+}
+.childdiv6{
+    background-color: antiquewhite;
+    display:inline-block;
+    width:50px;
+    height:80px;
+}
+.childdiv7{
+    background-color: antiquewhite;
+    display:inline-block;
+    width:50px;
+    height:100px;
+}
+.Question-14{
+    height:600px;
+    width:600px;
+    background-color: pink;
+    display:flex;
+    align-content:center;
+    flex-wrap:wrap;
+}
+.flex1{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    background-color:orange;
+}
